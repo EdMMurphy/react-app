@@ -1,12 +1,14 @@
+
 {
+
   "homepage": "https://EdMMurphy.github.io/react-app",
   "name": "react-app",
   "private": false,
   "version": "0.1.0",
-  "type": "module"
-},
+  "type": "module",
 
-  "scripts": {
+
+"scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
@@ -41,5 +43,5 @@
       "last 1 safari version"
     ]
   }
-
+}
 
